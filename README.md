@@ -24,7 +24,7 @@ A few small things I made sure it handles:
 1. Make sure Python 3 is installed on your computer.
 2. Clone this repo or download the file:
    ```
-   git clone <your-repo-link-here>
+   git clone <https://github.com/AryanSharma1105/Codealpha_Hangman_Game.git>
    ```
 3. Open the folder in your terminal and run:
    ```
